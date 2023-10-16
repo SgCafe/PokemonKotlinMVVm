@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokedexMvvmKotlin</string>
+    <string name="searchPokemon">Procurar Pókemon</string>
+
+    <string name="namePoke">N %1$03d</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

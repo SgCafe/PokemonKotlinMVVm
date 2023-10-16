@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gray200">#999999</color>
+    <color name="gray600">#666666</color>
+    <color name="cinza800">#333333</color>
+
+    <color name="grass">#63BC5A</color>
+    <color name="poison">#B567CE</color>
+
+    <color name="gradient">
+        <gradient
+            android:startColor="#58BC64"
+            android:endColor="#63BC5A"
+            android:angle="45"/>
+    </color>
+</resources>
